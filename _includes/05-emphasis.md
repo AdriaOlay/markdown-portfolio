@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Tinc una **gran capacitat de treball** i m'agrada aprendre **noves tecnologies**. M'agrada la feina **ben estructurada i ordenada**.
